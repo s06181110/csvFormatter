@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Be forcused pro で取得したCSVファイルを
+Be focused pro で取得したCSVファイルを
 Googleカレンダーのフォーマットに変換して出力する
 """
 
