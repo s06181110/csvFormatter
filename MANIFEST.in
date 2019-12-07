@@ -1,0 +1,6 @@
+include MANIFEST.in
+include Makefile
+include Example.py
+recursive-include Formatter.app *
+recursive-include jp *
+include pylintrc.txt
