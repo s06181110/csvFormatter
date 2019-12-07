@@ -21,5 +21,5 @@ setup( \
     license='MIT License', \
     long_description='このプログラムはBe Focused Proで生成されるCSVファイルをGoogleカレンダーにエクスポートできる形式に変更するプログラムです。', \
     platforms='macOS (10.15.1) Catalina', \
-    packages='jp', \
+    packages=['jp'], \
 )
