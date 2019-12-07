@@ -28,7 +28,7 @@ $ git clone https://github.com/s06181110/csvFormatter.git
 ## 実行例
 ```bash
 # 実行
-$ make prepare ; make test
+$ make test
 
 # アプリケーションにして開く
 $ make install ; open Formatter.app
